@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Worker worker1 = new Worker("Jan", 2500, 1, "2020-03-04", "Junior Developer");
         Worker worker2 = new Worker("Pawel", 2700, 2, "2022-02-18", "Senior Developer");
-        Worker worker3 = new Worker("Piotr", 2900, 1, "2019-07-10", "Tester");
+        Worker worker3 = new Worker("Piotr", 2900, 1, "2019-07-10", "Tester");// to samo ID
         Manager manager = new Manager("Michal", 5500, 5, "2018-11-27", "Department Head");
 
 
